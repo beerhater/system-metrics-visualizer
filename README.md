@@ -26,4 +26,3 @@ pip install psutill matplotlib
 Запуск!!
 python monitor.py 
 
-полный газ
